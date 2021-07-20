@@ -1,8 +1,8 @@
 package com.agoda.zipper.engines.zip.io;
 
+import com.agoda.zipper.engines.zip.Constants;
 import com.agoda.zipper.engines.zip.ZipFile;
 import com.agoda.zipper.utils.LittleEndianBuffer;
-import com.agoda.zipper.engines.zip.Constants;
 import lombok.RequiredArgsConstructor;
 
 import java.io.IOException;
